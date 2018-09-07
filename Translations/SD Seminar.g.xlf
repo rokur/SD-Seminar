@@ -13,6 +13,11 @@
           <note from="Developer" annotates="general" priority="2" />
           <note from="Xliff Generator" annotates="general" priority="3">Page - Page</note>
         </trans-unit>
+        <trans-unit id="Page 729898515 - Property 2879900210" maxWidth="999" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seminar List</source>
+          <note from="Developer" annotates="general" priority="2" />
+          <note from="Xliff Generator" annotates="general" priority="3">Page - Page</note>
+        </trans-unit>
         <trans-unit id="Page 1030630441 - Property 2879900210" maxWidth="999" size-unit="char" translate="yes" xml:space="preserve">
           <source>Seminar Comment Sheet</source>
           <note from="Developer" annotates="general" priority="2" />
